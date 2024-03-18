@@ -1,11 +1,12 @@
 
+# My Memory Game 
 
 
 https://github.com/yair-shtern/MyMemoryGame/assets/101128645/19f4089a-352b-46a1-a793-3e1c4d62de38
 
 
 
-### An Android Memory Game! 
+### Android memory game 
 You can play with the default icons, create custom games using photos from your phone, 
 or download memory boards made by others by entering the game name.
 
