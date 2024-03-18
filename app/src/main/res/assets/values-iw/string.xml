@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">משחק הזיכרון שלי</string>
+    <string name="num_moves_initial_msg">מהלכים: 0</string>
+    <string name="pairs_0_4">זוגות: 4 / 0</string>
+    <string name="easy_4_x_2">4 x 2 :קל</string>
+    <string name="medium_6_x_3">6 x 3 :בינוני</string>
+    <string name="pairs_0_9">זוגות: 9 / 0</string>
+    <string name="hard_8_x_4">8 x 4 :קשה</string>
+    <string name="pairs_0_16">זוגות: 16 / 0</string>
+    <string name="hint_for_game_name">שם המשחק (למשל \'my_dog\')</string>
+    <string name="quit_your_current_game">לצאת מהמשחק הנוכחי?</string>
+    <string name="create_your_own_memory_board">יצירת משחק</string>
+    <string name="fetch_memory_game">הורדת משחק</string>
+    <string name="sorry_we_couldn_t_find_any_such_game">\'%1$s\' מצטערים, לא הצלחנו למצוא את המשחק</string>
+    <string name="you_re_now_playing">!\'%1$s\' בוא/י נשחק</string>
+    <string name="choose_new_size">בחר/י גודל אחר</string>
+    <string name="cancel">ביטול</string>
+    <string name="ok">אישור</string>
+    <string name="you_already_won">כבר ניצחת!</string>
+    <string name="invalid_move">מהלך לא חוקי!</string>
+    <string name="you_won_congratulations">ניצחת! ברכות.</string>
+    <string name="choose_pics">(0 / %1$s) בחר/י תמונות</string>
+    <string name="provide_access_to_your_photos">על מנת ליצור משחק, נדרשת הרשאה לגשת לתמונות שלך</string>
+    <string name="choose_pics_update">(%1$s / %2$s) בחר/י תמונות</string>
+    <string name="moves">מהלכים: %1$s</string>
+    <string name="pairs">זוגות: %2$s / %1$s</string>
+    <string name="name_taken">שם קיים</string>
+    <string name="name_taken_user_msg">משחק עם השם \'%1$s\' כבר קיים. בבקשה בחר/י שם אחר</string>
+    <string name="error_while_saving_memory_game">אירעה שגיאה במהלך שמירת המשחק לזיכרון</string>
+    <string name="failed_to_upload_image">העלאת התמונה נכשלה</string>
+    <string name="failed_game_creation">יצירת המשחק נכשלה</string>
+    <string name="upload_complete_let_s_play_your_game">\'%1$s\' ההעלאה הושלמה! בוא/י נשחק את המשחק שלך</string>
+    <string name="save">שמירה</string>
+    <string name="easy_4_x_2_dialog">(4 x 2) קל</string>
+    <string name="medium_6_x_3_dialog">(6 x 3) בינוני</string>
+    <string name="hard_8_x_4_dialog">(8 x 4) קשה</string>
+    <string name="enter_game_name">הזן/י את שם המשחק</string>
+    <string name="create_custom_game">יצירת משחק</string>
+    <string name="download_custom_game">הורדת משחק</string>
+    <string name="hebrew">עברית</string>
+    <string name="english">אנגלית</string>
+    <string name="choose_language">בחר/י שפה</string>
+
+</resources>
