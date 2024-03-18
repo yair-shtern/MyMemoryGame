@@ -1,9 +1,7 @@
 
 
 
-https://github.com/yair-shtern/MyMemoryGame/assets/101128645/8e86b501-af8a-493f-b5b8-7bed879888d1
-
-
+<img src=https://github.com/yair-shtern/MyMemoryGame/assets/101128645/8e86b501-af8a-493f-b5b8-7bed879888d1 width="250" height="500">
 
 ### An Android Memory Game! 
 You can play with the default icons, create custom games using photos from your phone, 
